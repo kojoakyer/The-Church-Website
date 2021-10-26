@@ -114,15 +114,17 @@
     }
 
     .closeBtn{
-        /* position: relative; */
+        position: relative; 
         margin-bottom: 10px;
         background-color: none;
         border: none;
         font-size: 10px;
-        color: black;
-        /* top: -90%;
-        left: 43%; */
+        color: black; 
+        top: -80%;
+        left: 43%;
     }
+
+
 
     .btn-fas{
         color: black;
