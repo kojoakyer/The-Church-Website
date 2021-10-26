@@ -33,7 +33,7 @@ function ImageSlider({slides}) {
         return (
             <div className={index===current?'slide active':'slide'}>
 
-                {index === current &&  <img src={slide.image} alt='travel image' className='image'/>}
+                {index === current &&  <img src={slide.image} alt='travel' className='image'/>}
                 <h1 className="centered">{slide.title}</h1>
                 <p className='para'>{slide.text}</p>
 

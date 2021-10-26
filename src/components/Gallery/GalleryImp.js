@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import React from 'react'
 import './Gallery.css'
 import {imageData} from './imageData'
 import { SRLWrapper } from "simple-react-lightbox";
